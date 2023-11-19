@@ -1,0 +1,12 @@
+.pizza-menu2 {
+    margin-left: 40px;
+}
+@media screen and (max-width: 880px ) {
+    .pizza-menu1 {
+        order: 2;
+    }
+    .pizza-menu2 {
+        margin-left: 0;
+        order: 1;
+    }
+}
